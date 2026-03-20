@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>付款成功 - 立即下載</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #0f172a 0%, #064e3b 100%);
+            color: white;
+        }
+    </style>
+</head>
+<body class="min-h-screen font-sans flex flex-col items-center justify-center p-6">
+
+    <div class="max-w-lg w-full bg-slate-900/90 p-10 rounded-3xl shadow-2xl border border-emerald-500/30 text-center">
+        <div class="text-emerald-400 text-6xl mb-4">✓</div>
+        
+        <h1 class="text-3xl font-extrabold mb-4">付款成功！</h1>
+        <p class="text-slate-300 mb-8 leading-relaxed">
+            歡迎加入 The Rebuild Club。<br>
+            你的系統升級準備就緒，請點擊下方按鈕下載你的《7天深度睡眠修復系統》指南。
+        </p>
+
+        <a href="sleep-guide.pdf" download="高效人生重啟指南.pdf"
+           class="inline-block bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-4 px-10 rounded-full shadow-lg transform transition hover:scale-105 text-lg">
+            ⬇ 點擊下載 PDF 指南
+        </a>
+    </div>
+
+</body>
+</html>
