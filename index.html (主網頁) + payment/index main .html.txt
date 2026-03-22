@@ -34,7 +34,7 @@
             <li class="flex items-center"><span class="text-cyan-400 mr-3">✓</span> Day 7: 建立個人修復 Routine</li>
         </ul>
 
-        <a href="https://buy.stripe.com/9B64gzfXp0VcdXHaXcdQQ00" 
+        <a href="https://buy.stripe.com/3cI3cv6mPgUa9Hr6GWdQQ01" 
            class="inline-block bg-gradient-to-r from-blue-600 to-cyan-600 hover:from-blue-500 hover:to-cyan-500 text-white font-bold py-4 px-10 rounded-full shadow-lg transform transition hover:scale-105 text-xl">
             立即獲取指南開始重啟
         </a>
